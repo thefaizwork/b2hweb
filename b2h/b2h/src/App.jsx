@@ -142,6 +142,19 @@ const App = () => {
           />
         </div>
       </div>
+      <div className="h-[500px] bg-cover bg-center bg-no-repeat flex justify-center items-center text-white px-4">
+      <h1 className="text-black font-black mr-[650px] mb-[400px] text-6xl italic" style={{ transform: 'rotate(-9deg)' }}>
+  PLAY NOW <br/> RIGHT NOW
+</h1>      
+      
+      </div>
+'
+    
+
+
+
+
+
     </div>
   );
 };
